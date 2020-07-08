@@ -21,3 +21,7 @@ npm install expo-cli --global
 echo "deb https://deb.etcher.io stable etcher" | sudo tee /etc/apt/sources.list.d/balena-etcher.list
 sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 379CE192D401AB61
 sudo apt update && sudo apt install balena-etcher-electron
+
+#Add Apt Repository
+sudo apt-get install software-properties-common
+sudo apt update
