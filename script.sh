@@ -25,3 +25,6 @@ sudo apt update && sudo apt install balena-etcher-electron
 #Add Apt Repository
 sudo apt-get install software-properties-common
 sudo apt update
+
+#Doom
+sudo apt install prboom-plus doom-wad-shareware doomsday
