@@ -27,6 +27,15 @@ echo "Install React Native"
 npm install react-native-cli --global
 npm install create-react-native-app --global
 
+#Python3 
+echo "Python3"
+sudo apt install python3
+sudo apt install python3-pip
+
+#Django
+echo "Django"
+sudo pip3 install Django
+
 #Add Apt Repository
 echo "Install Software Properties Common"
 sudo apt-get install software-properties-common
