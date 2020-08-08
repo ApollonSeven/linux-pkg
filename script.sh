@@ -36,6 +36,10 @@ sudo apt install python3-pip
 echo "Django"
 sudo pip3 install Django
 
+#Snap
+echo "Snap"
+sudo apt install snapd
+
 #Add Apt Repository
 echo "Install Software Properties Common"
 sudo apt-get install software-properties-common
