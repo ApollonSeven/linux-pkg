@@ -48,3 +48,11 @@ sudo apt update
 #Doom
 echo "Install Doom"
 sudo apt install prboom-plus doom-wad-shareware doomsday
+
+#Firefox
+echo "Install Firefox"
+sudo snap install firefox
+
+#Krita
+echo "Install Krita"
+sudo snap install krita
